@@ -1,0 +1,28 @@
+
+
+body{
+    background-color: aquamarine;
+}
+#div1{
+    background-color: rgb(253, 240, 247);
+
+}
+
+h3{
+    font-family:Lovelo;
+}
+
+div{
+    
+    font-family:Lovelo;
+}
+/* 
+#div2{
+    background-color: rgb(197, 246, 230);
+
+} */
+
+.navbar{
+    box-shadow: 0 4px 8px 0 rgba(184, 172, 172, 0.2), 0 6px 20px 0 rgba(188, 180, 180, 0.19);
+
+}

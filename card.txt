@@ -1,0 +1,54 @@
+<div className="card-container">
+        <div class="row">
+          <div class="col-sm">
+
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="../joyfulgirl.webp" />
+      <Card.Body>
+        <Card.Title>Dresses under 699</Card.Title>
+        <Card.Text>
+          <h2>Min.40% Off</h2>
+        </Card.Text>
+        <Button variant="primary">Buy Now</Button>
+      </Card.Body>
+    </Card>
+    </div>
+    <div class="col-sm">
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="../menshirt.webp" />
+      <Card.Body>
+        <Card.Title>Shirts under 499</Card.Title>
+        <Card.Text>
+          <h2>Min.20% Off</h2>
+        </Card.Text>
+        <Button variant="primary">Buy Now</Button>
+      </Card.Body>
+    </Card>
+    </div>
+    <div class="col-sm">
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="../hoodie.webp" />
+      <Card.Body>
+        <Card.Title>Hoodies under 999</Card.Title>
+        <Card.Text>
+          <h2>Min.50% Off</h2>
+        </Card.Text>
+        <Button variant="primary">Buy Now</Button>
+      </Card.Body>
+    </Card>
+    </div>
+
+    <div class="col-sm">
+    <Card style={{ width: '18rem' }}>
+      <Card.Img variant="top" src="../frocks.webp" />
+      <Card.Body>
+        <Card.Title>Frocks under 399</Card.Title>
+        <Card.Text>
+          <h2>Min.10% Off</h2>
+        </Card.Text>
+        <Button variant="primary">Buy Now</Button>
+      </Card.Body>
+    </Card>
+    </div>
+    </div>
+    </div>
